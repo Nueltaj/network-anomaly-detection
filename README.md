@@ -12,3 +12,10 @@ Place the CSV files in the `data/` folder.
 - `models/` — saved trained models
 - `dashboard/` — Streamlit app
 - `docs/` — reference documents
+
+
+
+## Author
+Emmanuel — 400-level Computer Engineering  
+Abiola Ajimobi Technical University, Nigeria  
+Internship: KKON Technologies Limited, Lagos
